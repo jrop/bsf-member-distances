@@ -1,6 +1,8 @@
 bsf-member-distances
 ====================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/bsf-member-distances.svg)](https://greenkeeper.io/)
+
 A simple utility to calculate distances from BSF members to each airport: KGXY and KFNL.
 
 ## Requirements
